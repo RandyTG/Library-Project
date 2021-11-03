@@ -37,13 +37,4 @@ Displays each account in the system along with more information on the account a
 ## Technology
 
 ### Built with:
-* REACT, including router & Bootstrap
-  * Created with create-react-app
-
-### API interface:
-* An API server, powered by [json-server](https://www.npmjs.com/package/json-server), running on http://localhost:5000
-
-## Technology
-
-### Built with:
 * HTML, Javascript & Bootstrap
